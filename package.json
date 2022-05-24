@@ -1,0 +1,18 @@
+{
+  "name": "csv_to_json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "email-validator": "^2.0.4",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "google-libphonenumber": "^3.2.27",
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
+}
